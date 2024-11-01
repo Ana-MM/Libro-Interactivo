@@ -56,6 +56,11 @@ a{
     color: #fff;
 }
 
+span.finales{
+    display: block;
+    text-align: end;
+}
+
 footer{
     text-align: center;
     font-size: xx-large;
